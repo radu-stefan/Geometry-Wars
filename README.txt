@@ -1,5 +1,4 @@
 Nume: Piersicanu Radu Stefan
-Grupa: 332CB
 
 Utilizare aplicatie:
 	-taste miscare: W-sus, A-stanga, S-jos, D-dreapta
